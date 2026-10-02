@@ -1,2 +1,3 @@
-# DevOps
-My learning log for DevOps/SRE
+# DevOps Journey
+
+Goal: move from support into SRE/DevOps.
